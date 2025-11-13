@@ -2,9 +2,9 @@
 # Projeto: SkillBridge - FUTURE AT WORK
 # Tema: Requalificação Inteligente para o Futuro do Trabalho
 # Alunos:
-# - Gustavo Firmino Barbosa – RM 566903
-# - Igor Marchiolli – RM XXXXXXX
-# - Lucas Nerebeck – RM XXXXXXX
+#Gustavo Firmino – RM 566903
+#Igor Marchiolli – RM 568330
+#Lucas Nehrebecki – RM 568186
 # -----------------------------------------------------------
 
 # Objetivo:
@@ -164,3 +164,4 @@ habilidades, removidas = coletar_habilidades()
 trilhas_recomendadas = analisar_perfil(habilidades)
 
 exibir_relatorio(habilidades, removidas, trilhas_recomendadas)
+
