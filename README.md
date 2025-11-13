@@ -6,9 +6,9 @@ Integrantes
 
 Gustavo Firmino – RM 566903
 
-Igor Marchiolli – RM XXXXX
+Igor Marchiolli – RM 568330
 
-Lucas Nerebeck – RM XXXXX
+Lucas Nehrebecki – RM 568186
 
 Funcionalidades
 
