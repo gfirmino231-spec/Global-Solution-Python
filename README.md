@@ -1,6 +1,6 @@
 Descrição do Projeto
 
-O SkillBridge é um protótipo em Python que simula um sistema de requalificação profissional para o futuro do trabalho. O programa coleta habilidades do usuário, analisa compatibilidade com áreas emergentes e recomenda trilhas de aprendizado. O código usa apenas conteúdos básicos aprendidos em aula: listas, funções, loops, condicionais e manipulação simples de strings.
+O SkillBridge é um protótipo em Python que simula um sistema de requalificação profissional para o futuro do trabalho. O programa coleta habilidades do usuário, analisa compatibilidade com áreas emergentes e recomenda trilhas de aprendizado. 
 
 Integrantes
 
@@ -26,11 +26,11 @@ Relatório final organizado
 
 Tecnologias Utilizadas
 
-Python básico
+Python 
 
 Listas, funções, loops, condicionais
 
-Métodos como append, pop, lower, title
+Métodos como append, pop, lower.
 
 Como Executar
 
@@ -38,7 +38,7 @@ Salve o arquivo como skillbridge.py
 
 No terminal, execute:
 
-python skillbridge.py
+python global solution.py
 
 Estrutura do Código
 
