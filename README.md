@@ -52,4 +52,4 @@ exibir_relatorio() – mostra o resultado final
 
 Objetivo Educacional
 
-Demonstrar domínio dos fundamentos da programação, criar uma solução simples e funcional relacionada ao tema “Futuro do Trabalho”, e aplicar lógica usando apenas recursos aprendidos em aula.
+Demonstrar domínio dos fundamentos da programação, criar uma solução simples e funcional relacionada ao tema “Futuro do Trabalho”.
